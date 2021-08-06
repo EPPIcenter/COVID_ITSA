@@ -1,2 +1,2 @@
 # COVID_ITSA
-Data and code for COVID ITSA 
+Data used for for COVID ITSA project
